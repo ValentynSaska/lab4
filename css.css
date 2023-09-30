@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    
+}
+.rotate-text {
+    transform: rotate(-90deg);
+    transform-origin: center center;
+    text-align: center;
+}
+thead tr td {
+    text-align: center;
+    background-color: lightgray;
+    height: 40px;
+}
+.day-cell {
+    width: 20px;
+    height: 100px;
+}
+.col{
+    background-color: lightgray;   
+}
+.cen{
+    transform-origin: center center;
+    text-align: center;
+}
+.ST{
+    width: 500px; 
+}
